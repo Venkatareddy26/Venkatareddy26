@@ -13,7 +13,7 @@
 
 Enthusiastic and detail-oriented Software Engineer with a passion for building efficient and scalable web applications. Proficient in full-stack development with expertise in JavaScript, Python, and databases. Currently pursuing my Master's in Information Technology.
 
-- 🔭 Currently working as **Software Development Intern** at E-S-Genius-tech Solutions, Bangalore
+- 🔭 Currently working as ** Software Engineer ** at E-S-Genius-tech Solutions, Bangalore
 - 🎓 **M.Sc Information Technology** - Vels Institute of Science, Technology & Advanced Studies, Chennai (2023-2025)
 - 🌱 Always learning and exploring new technologies
 - 📫 Reach me at **venkatareddy.2601@gmail.com**
