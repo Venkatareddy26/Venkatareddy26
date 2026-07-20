@@ -13,7 +13,7 @@
 
 Enthusiastic and detail-oriented Software Engineer with a passion for building efficient and scalable web applications. Proficient in full-stack development with expertise in JavaScript, Python, and databases. Currently pursuing my Master's in Information Technology.
 
-- 🔭 Former ** Software Engineer ** at E-S-Genius-tech Solutions, Bangalore
+- 🔭 Former ** Software Engineer ** at Entro Labs IT Solutiond Pvt Ltd , Hyderabad Telangana , India
 - 🎓 **M.Sc Information Technology** - Vels Institute of Science, Technology & Advanced Studies, Chennai (2023-2025)
 - 🌱 Always learning and exploring new technologies
 - 📫 Reach me at **venkatareddy.2601@gmail.com**
